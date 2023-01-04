@@ -1,5 +1,4 @@
-# 3D Mapping vSLAM ZED2i Projekt
-
+# 3D Mapping with ZED2i using vSLAM 
 ## Allgemeine Bemerkungen
 
 Dieses Github-Repository ist eine Lernumgebung, die von türkisch-deutschen Universitätsstudenten 
